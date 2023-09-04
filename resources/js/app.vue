@@ -1,8 +1,8 @@
 <template>
   <div>
-    <Navigation /> <!-- Komponent nawigacji -->
-    <router-view></router-view> <!-- Zawartość trasy wyświetlana tutaj -->
-  </div>
+    <Navigation />
+    <router-view></router-view>
+  </div> 
 </template>
 
 <script setup>
