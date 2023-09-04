@@ -1,5 +1,5 @@
 <template>
     <h1>
-        How To Install Vue 3 in Laravel 10 : ZWebCourses :)
+        New Laravel project
     </h1>
 </template>
