@@ -14,7 +14,6 @@
         <input type="hidden" name="_token" :value="csrfToken" />
       <button type="submit">Zarejestruj</button>
     </form>
-    
   </div>
 </template>
 
